@@ -21,6 +21,13 @@
 
 <br/>  
 
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" align="left" style="width: 100%" />
+</div>
+
+<br/>  
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uygardgn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uygardgn)
