@@ -6,9 +6,9 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false)
 <br/>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uygardgn)
