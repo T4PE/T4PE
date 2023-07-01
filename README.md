@@ -7,26 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br/>
-<table display="flex"><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<div display="flex" flex-direction="row">
-  <img src="https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" align="left" style="width: 100%" />
-</div>
-
-<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uygardgn)
