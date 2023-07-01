@@ -13,12 +13,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
 <!-->
-<div width="70%">
+<div width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="60%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="top">
 </div>
 <br/>
-<div width="70%">
+<div width="100%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" width="100%">
 </div>
 
