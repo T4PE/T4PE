@@ -20,6 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=uygardgn&icon=3&color=3)](https://visitcount.itsvg.in)
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=uygardgn&icon=3&color=3)](https://visitcount.itsvg.in"></a>
-</div>
