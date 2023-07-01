@@ -21,7 +21,7 @@
 
 <br/>  
 
-<div display="flex">
+<div display="flex" flex-direction="row">
   <img src="https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" align="left" style="width: 100%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" align="left" style="width: 100%" />
 </div>
