@@ -12,17 +12,6 @@
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
-<!-->
-<div width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="50%" height="130px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygardgn&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="130px" align="top">
-</div>
-<br/>
-<div width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" width="100%" height="150px">
-</div>
-
-<!-->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uygardgn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uygardgn)
