@@ -18,5 +18,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@uygardgn) 
 
 
-</hr>
+---
 [![](https://visitcount.itsvg.in/api?id=uygardgn&icon=3&color=3)](https://visitcount.itsvg.in)
