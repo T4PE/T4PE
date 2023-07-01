@@ -19,7 +19,7 @@
 </div>
 <br/>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uygardgn&theme=blue-green&hide_border=false" width="100%">
 </div>
 
 <!-->
